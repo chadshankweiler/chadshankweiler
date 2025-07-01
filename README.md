@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chad Shankweiler</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">I like to tinker and break things</h3>
 
 - 📫 How to reach me **chadshankweiler@gmail.com**
 
